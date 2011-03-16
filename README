@@ -2,4 +2,22 @@ Created by Page Schmidt and Kevin Green
 Final Project for COMP 271 (Data Structures)
 Loyola University, Fall 2010
 
-Drink recipes retrieved from http://www.idrink.com
+**Drink recipes retrieved from http://www.idrink.com**
+
+Application Features:
+
+-Keeps a library of drink recipes/their required ingredients.
+
+-Allows user to choose the ingredients they currently have
+and adds them to an inventory.
+
+-Returns a list of recipes the user can make with the
+ingredients they have.
+
+-Returns a list of recipes the user could make with
+the purchase of one additional ingredient.
+
+-"Random Drink" feature displays a random recipe from
+the application's library.
+
+-User can also browse the library of drink recipes.
