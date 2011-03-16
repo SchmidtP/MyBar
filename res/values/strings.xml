@@ -11,4 +11,5 @@
 <string name="randomCanMake">Random Drink I Can Make</string>
 <string name="mainMenu">Main Menu</string>
 <string name="save_inventory">Save Inventory</string>
+<string name="credit">Credits</string>
 </resources>

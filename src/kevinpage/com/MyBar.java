@@ -126,6 +126,5 @@ public class MyBar extends Activity {
 			}
 		});
 
-
 	}
 }

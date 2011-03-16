@@ -46,6 +46,7 @@ public final class R {
         public static final int app_name=0x7f050001;
         public static final int browse=0x7f050007;
         public static final int canMake=0x7f050005;
+        public static final int credit=0x7f05000b;
         public static final int hello=0x7f050000;
         public static final int ingredients=0x7f050002;
         public static final int inv=0x7f050004;
